@@ -1,3 +1,5 @@
+BIBLIOTECAS UTILIZADAS
+
  1 - pip install selenium
  2 - pip install webdriver-manager
  3 - pip install python-dotenv
