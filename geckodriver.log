@@ -1,0 +1,62 @@
+1686150775768	geckodriver	INFO	Listening on 127.0.0.1:41067
+1686150775827	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAdbnnG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686150776930	Marionette	INFO	Marionette enabled
+1686150776936	Marionette	INFO	Listening on port 36979
+Read port: 36979
+WebDriver BiDi listening on ws://127.0.0.1:46749
+1686150777237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46749/devtools/browser/deeddfa6-2e24-47cc-8931-71eebd290732
+JavaScript error: https://guilhermenunes.com.br/selenium/login/, line 59: ReferenceError: options is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://guilhermenunes.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://guilhermenunes.com.br."
+JavaScript error: https://guilhermenunes.com.br/selenium/admin/, line 295: ReferenceError: options is not defined
+JavaScript error: https://guilhermenunes.com.br/selenium/admin/, line 295: ReferenceError: options is not defined
+1686150799222	Marionette	INFO	Stopped listening on port 36979
+1686151406227	geckodriver	INFO	Listening on 127.0.0.1:35605
+1686151406784	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "40853" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileycIb6f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686151407833	Marionette	INFO	Marionette enabled
+1686151407840	Marionette	INFO	Listening on port 45597
+Read port: 45597
+WebDriver BiDi listening on ws://127.0.0.1:40853
+1686151408151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40853/devtools/browser/5553e86a-ce5b-4f98-8c3b-8db52e06f387
+JavaScript error: https://guilhermenunes.com.br/selenium/login/, line 59: ReferenceError: options is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://guilhermenunes.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://guilhermenunes.com.br."
+JavaScript error: https://guilhermenunes.com.br/selenium/admin/, line 295: ReferenceError: options is not defined
+1686151425699	Marionette	INFO	Stopped listening on port 45597
+1686151429987	geckodriver	INFO	Listening on 127.0.0.1:37529
+1686151430039	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43199" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileu5iPWd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1686151430781	Marionette	INFO	Marionette enabled
+1686151430787	Marionette	INFO	Listening on port 33415
+Read port: 33415
+WebDriver BiDi listening on ws://127.0.0.1:43199
+1686151430986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43199/devtools/browser/36d2b5ea-fb8c-418f-a05d-01c0c1665123
+JavaScript error: https://guilhermenunes.com.br/selenium/login/, line 59: ReferenceError: options is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://guilhermenunes.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://guilhermenunes.com.br."
+JavaScript error: https://guilhermenunes.com.br/selenium/admin/, line 295: ReferenceError: options is not defined
+JavaScript error: https://guilhermenunes.com.br/selenium/admin/, line 295: ReferenceError: options is not defined
+JavaScript error: https://guilhermenunes.com.br/selenium/login/, line 59: ReferenceError: options is not defined
+JavaScript error: https://guilhermenunes.com.br/selenium/admin/, line 295: ReferenceError: options is not defined
+JavaScript error: https://guilhermenunes.com.br/selenium/admin/, line 295: ReferenceError: options is not defined
+1686151922465	Marionette	INFO	Stopped listening on port 33415

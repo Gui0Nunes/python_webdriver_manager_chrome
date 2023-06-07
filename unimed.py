@@ -20,14 +20,14 @@ servico = Service(ChromeDriverManager().install())
 navegador = webdriver.Chrome(service=servico)
 
 navegador.get(link)
-#time.sleep(2)
+# time.sleep(2)
 
 navegador.find_element('xpath','//*[@id="ctl00_ContentPlaceHolderConteudo_TXT_postoAmostraUnificado"]').send_keys(username)
 navegador.find_element('xpath','//*[@id="ctl00_ContentPlaceHolderConteudo_TXT_PacienteSenha"]').send_keys(senha)
 navegador.find_element('xpath','//*[@id="BTN_PacienteAcesso"]').click()
 result = navegador.find_element('xpath','//*[@id="ctl00_ContentPlaceHolderConteudo_GV_Pacientes"]/tbody/tr[5]/td[1]/input')
 result.click() 
-time.sleep(2)
+# time.sleep(2)
 
 #Abaixo: Resgata varios valores e salva em uma lista (array)
 #results = navegador.find_elements('xpath','//*[@id="ctl00_ContentPlaceHolderConteudo_GV_Pacientes"]/tbody/tr')              
@@ -39,3 +39,4 @@ time.sleep(2)
 # Valor terceiro item da lista -> //*[@id="ctl00_ContentPlaceHolderConteudo_GV_Pacientes"]/tbody/tr[3]/td[1]/input
 
 print('fim')
+
